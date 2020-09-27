@@ -1,0 +1,5 @@
+
+Book | title=test-A, price=100, edition:1, access=SENIOR|
+Book | title=test-B, price=200, edition:3, access=JUNIOR|
+Book | title=test-C, price=500, edition:1, access=SENIOR|
+Book | title=titleTest, price=100500, edition:6, access=SENIOR|

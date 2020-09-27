@@ -1,0 +1,4 @@
+user1 123 SENIOR
+user2 456 JUNIOR
+
+user3 pass JUNIOR
